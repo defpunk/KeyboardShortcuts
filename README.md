@@ -10,8 +10,8 @@ it. If you don't know the shortcut needed, 1st try to use your ide to find it an
        editor)
     2. Swap between the two editor groups a few times and end up in the left hand editor
     3. Open the parrot.test.ts
-    4. Goto line 22
-    5. Go to the definition of the Parrot constructor
+    4. Goto line 20 character 28
+    5. Go to the definition of the Parrot constructor,  use the go to code functionality
     6. Move the parrot.ts file between the two editor groups a few times and end with the file in the left hand window
     7. Go back to the parrot.test.ts file
     8. Close the parrot.test.ts file
@@ -22,7 +22,7 @@ it. If you don't know the shortcut needed, 1st try to use your ide to find it an
     1. Toggle between fullscreen and non fullscreen mode
     2. Show and hide the sidebar
     3. Show and hide the terminal
-    4. Enter and exit focus mode
+    4. Enter and exit focus mode - VS code calls this zen mode
 
 3. Moving code without copy and paste
     1. open set.test.ts
